@@ -22,8 +22,9 @@ print(sol)
 
 ```
 ## Output:
+![Screenshot 2023-12-17 134228](https://github.com/suryamalarv/RANK-OF-A-MATRIX/assets/145742486/1714115e-8bd7-4aeb-ab6e-3876144a064f)
 ```
-![Screenshot 2023-12-17 134228](https://github.com/suryamalarv/RANK-OF-A-MATRIX/assets/145742486/0f705166-d0a1-4748-bd21-5c5099192dd9)
+
 
 
 
